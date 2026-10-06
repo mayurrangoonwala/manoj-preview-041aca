@@ -25,6 +25,7 @@ Mortgage Alliance profile: https://www.mortgagealliance.com/mortgage-broker/Mano
 - Mortgage renewal
 - Private mortgages
 - Second mortgages
+- Reverse mortgages
 - Commercial mortgages
 Fixed-rate, adjustable-rate, insured and non-insured mortgages, with private lending when a file needs it.
 
@@ -67,6 +68,7 @@ A short-term loan, usually one to two years, from a private lender or mortgage i
 - [Mortgage renewal](https://manojmortgages.com/mortgage-renewal/): Don't just sign your lender's renewal offer. Manoj Patel compares it against 60+ lenders, including if your credit or income has changed.
 - [Private mortgages](https://manojmortgages.com/private-mortgages/): Private mortgages and second mortgages across Ontario, based on your home’s equity rather than your credit score. Short-term, with a plan to move on.
 - [Second mortgages](https://manojmortgages.com/second-mortgages/): Need cash from your home's equity without breaking your first mortgage? Manoj Patel arranges second mortgages across Ontario.
+- [Reverse mortgages](https://manojmortgages.com/reverse-mortgages/): Homeowners 55+ can turn part of their home’s value into tax-free cash with no monthly mortgage payments. Manoj Patel explains the trade-offs plainly.
 - [Commercial mortgages](https://manojmortgages.com/commercial-mortgages/): Commercial and mixed-use property financing across Ontario: retail, industrial, office and multi-unit residential. Manoj Patel finds the lender.
 
 ## B-lender mortgages in Ontario
@@ -116,6 +118,14 @@ A second mortgage lets you borrow against your home without touching the mortgag
 - Is a second mortgage the same as a HELOC? Not quite. A second mortgage is usually a lump sum with set payments. A HELOC is a credit line you draw on as needed, and usually needs stronger credit.
 - Can I pay it off early? Often, yes, but terms vary. Some private loans charge a fee for early payout. I'll tell you before you sign.
 - Will my first mortgage lender find out? A second mortgage is registered on your property's title, so it's on the record. Some first mortgages have terms about additional borrowing, so I check yours before we apply.
+
+## Reverse mortgages for homeowners 55+
+A reverse mortgage lets homeowners 55 and older turn part of their home's value into tax-free cash, without monthly mortgage payments and without selling. I'll show you the real costs, and the alternatives, before you decide.
+- Is the money taxable? No. It's a loan, not income, so it isn't taxed and generally doesn't affect Old Age Security or the Guaranteed Income Supplement.
+- Do I have to make monthly payments? No. You can pay the interest if you want to, but you don't have to. The loan is repaid when the home is sold or you move out.
+- Can I lose my home? Not for missing payments, because there are none. You do need to live there, pay your property tax and insurance, and keep the home in good repair. Those are the conditions of the loan.
+- Will my family still inherit the home? Your estate keeps whatever equity is left once the loan is repaid. Many families sell the home and keep the difference, or repay the loan and keep the home.
+- Can I get one if I still have a mortgage? Often, yes. The existing mortgage is paid off from the reverse mortgage first, which also ends those monthly payments.
 
 ## Commercial mortgages
 Commercial lending runs on different rules from home mortgages. Lenders look at the property and its income as much as at you, and I find the ones that fit your deal.
