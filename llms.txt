@@ -44,6 +44,9 @@ Typically 1–3% higher than A-lender rates, plus a lender fee. I'm transparent 
 ### Will applying hurt my credit score?
 A single mortgage application is one hard inquiry — minimal impact. I do a soft pull first before we go anywhere near a formal application.
 
+### My bank won't renew my mortgage. What now?
+You still have options. Your current lender may renew once any missed payments are caught up. If not, a B-lender can often take the mortgage over, and a short private mortgage can bridge the gap while your credit recovers. Start about four months before your renewal date.
+
 ### What happens when my term is up?
 I reach out a few months before your renewal, compare your options, and tell you plainly whether to stay or switch.
 
@@ -71,6 +74,8 @@ A bank decline isn't the end of the road. B-lenders are regulated trust companie
 - Is a B-lender safe? Yes. B-lenders are regulated lenders, not loan sharks. Your mortgage is a normal registered mortgage with a set term and set payments. The difference is the rate and the approval rules.
 - How much down payment does a B-lender need? Usually 20% for a purchase, because most B-lender mortgages are uninsured. On a refinance you can typically borrow up to about 80% of your home’s value.
 - Will a B-lender mortgage hurt my credit? No. It is a normal mortgage, and paying it on time strengthens your credit file like any other.
+- How fast can a B-lender approve a mortgage? Once the file is complete, a decision often comes within a few business days. The full timeline depends on the appraisal, conditions and your closing date, so start as early as you can.
+- Can I use a B-lender to renew or refinance, not just to buy? Yes. B-lenders handle purchases, refinances and switches at renewal. Renewal is often when people discover their bank won't keep them, and a B-lender can be the answer.
 
 ## Mortgages for buying a home
 A first mortgage is the main loan on the home you buy. I shop it across lenders, get you pre-approved, and stay on the file until you have the keys.
@@ -89,18 +94,24 @@ When your term ends, your lender sends a renewal offer, and many people simply s
 - Do I have to pass the stress test to switch lenders at renewal? Usually not, if you're keeping the same amount and amortization. That rule changed in late 2024. Borrowing more at renewal is treated differently.
 - Does switching lenders cost anything? Often very little: many lenders cover the legal and appraisal costs on a straight switch. I'll confirm the costs for your lender.
 - Can I take out equity when I renew? Yes. That's a refinance at renewal, and it's often the cheapest time to do it because there's no penalty to break your term.
+- My bank won't renew my mortgage. What can I do? Start by finding out why, and whether getting caught up on payments changes their answer. If it doesn't, a B-lender can often take over the mortgage, and a short private mortgage can bridge the gap while your credit recovers. The earlier you start, the more options you have.
+- Can I renew if I've missed payments? Often, yes. Many lenders will renew once you're caught up, though the rate may be higher. If your current lender won't, B-lenders look at the whole picture rather than just the missed payments.
+- What happens if my term ends and I haven't signed anything? Lenders handle this differently. Some move you into a short or open term at a higher rate, and some send a demand. Don't let it lapse: start comparing about four months before your renewal date.
 
 ## Private mortgages and private lending
 When even a B-lender can't help in time, a private mortgage can. It's short-term money secured by your property's equity, used to fix a problem now and set up something better next.
 - How long does a private mortgage last? Usually one year, sometimes two. Payments are often interest-only. The point is to give you time to fix the problem, then move to a cheaper lender.
 - Can I get a private mortgage with bad credit? Often, yes, if there is enough equity in the property. Private lenders care most about the equity and the plan to repay.
 - What is a private second mortgage? A loan registered behind your existing mortgage. You keep your current mortgage and its rate, and borrow against the equity on top of it.
+- How fast can a private mortgage close? Often within days to a couple of weeks, once the appraisal and lawyers are ready. Speed is one of the main reasons people use private money.
+- Is private lending legal and regulated? Yes, when it's done properly. In Ontario, private mortgages are arranged by licensed mortgage agents and brokers, registered on title, and closed through lawyers. Avoid anyone who skips those steps.
 
 ## Second mortgages
 A second mortgage lets you borrow against your home without touching the mortgage you already have. You keep your current rate on the first.
 - Do I need good credit for a second mortgage? Not always. Many second mortgages come from B-lenders or private lenders who focus on your equity more than your credit score.
 - Is a second mortgage the same as a HELOC? Not quite. A second mortgage is usually a lump sum with set payments. A HELOC is a credit line you draw on as needed, and usually needs stronger credit.
 - Can I pay it off early? Often, yes, but terms vary. Some private loans charge a fee for early payout. I'll tell you before you sign.
+- Will my first mortgage lender find out? A second mortgage is registered on your property's title, so it's on the record. Some first mortgages have terms about additional borrowing, so I check yours before we apply.
 
 ## Commercial mortgages
 Commercial lending runs on different rules from home mortgages. Lenders look at the property and its income as much as at you, and I find the ones that fit your deal.
